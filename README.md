@@ -4,4 +4,5 @@ All scripts that I develop to learn Computer Science. These include scripts from
 Contents:
 1. Books:
     Python Basics (By Dan Bader)
-      
+2. APIs:
+    Amazon Stock Price (Current)
